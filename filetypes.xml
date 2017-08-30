@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="post-receive" type="PLAIN_TEXT" />
       <mapping pattern="TEST1" type="PLAIN_TEXT" />
       <mapping pattern="TEST4" type="PLAIN_TEXT" />
       <mapping pattern="TEST3" type="PLAIN_TEXT" />
