@@ -12,6 +12,7 @@
       <mapping pattern="TEST3" type="PLAIN_TEXT" />
       <mapping pattern="TEST2" type="PLAIN_TEXT" />
       <mapping pattern="TEST1" type="PLAIN_TEXT" />
+      <mapping pattern="hi" type="PLAIN_TEXT" />
       <mapping pattern="TEST6" type="PLAIN_TEXT" />
       <mapping pattern="TEST14" type="PLAIN_TEXT" />
       <mapping pattern="TEST13" type="PLAIN_TEXT" />
@@ -20,6 +21,7 @@
       <mapping ext="20170829" type="PLAIN_TEXT" />
       <mapping ext="20170807" type="PLAIN_TEXT" />
       <mapping ext="20170803" type="PLAIN_TEXT" />
+      <mapping ext="20170830" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
