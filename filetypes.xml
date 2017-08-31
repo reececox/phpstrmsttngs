@@ -18,6 +18,7 @@
       <mapping pattern="-FLAG_QUEUE_RUNNING" type="PLAIN_TEXT" />
       <mapping pattern="TEST6" type="PLAIN_TEXT" />
       <mapping pattern="-FLAG_QUEUE_OFF" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="TEST14" type="PLAIN_TEXT" />
       <mapping pattern="TEST13" type="PLAIN_TEXT" />
       <mapping pattern="TEST11" type="PLAIN_TEXT" />
