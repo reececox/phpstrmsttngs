@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
+      <mapping pattern="Readme" type="PLAIN_TEXT" />
+      <mapping pattern="attachments-README" type="PLAIN_TEXT" />
       <mapping pattern="TEST12" type="PLAIN_TEXT" />
       <mapping pattern="TEST9" type="PLAIN_TEXT" />
       <mapping pattern="TEST8" type="PLAIN_TEXT" />
