@@ -3,20 +3,21 @@
     <extensionMap>
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="Readme" type="PLAIN_TEXT" />
+      <mapping pattern="TEST6" type="PLAIN_TEXT" />
       <mapping pattern="attachments-README" type="PLAIN_TEXT" />
-      <mapping pattern="TEST12" type="PLAIN_TEXT" />
+      <mapping pattern="FLAG_QUEUE_OFF" type="PLAIN_TEXT" />
       <mapping pattern="TEST9" type="PLAIN_TEXT" />
       <mapping pattern="TEST8" type="PLAIN_TEXT" />
       <mapping pattern="TEST7" type="PLAIN_TEXT" />
       <mapping pattern="post-receive" type="PLAIN_TEXT" />
-      <mapping pattern="TEST5" type="PLAIN_TEXT" />
+      <mapping pattern="TEST12" type="PLAIN_TEXT" />
       <mapping pattern="TEST4" type="PLAIN_TEXT" />
       <mapping pattern="TEST3" type="PLAIN_TEXT" />
       <mapping pattern="TEST2" type="PLAIN_TEXT" />
       <mapping pattern="TEST1" type="PLAIN_TEXT" />
       <mapping pattern="hi" type="PLAIN_TEXT" />
       <mapping pattern="-FLAG_QUEUE_RUNNING" type="PLAIN_TEXT" />
-      <mapping pattern="TEST6" type="PLAIN_TEXT" />
+      <mapping pattern="TEST5" type="PLAIN_TEXT" />
       <mapping pattern="-FLAG_QUEUE_OFF" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="TEST14" type="PLAIN_TEXT" />
