@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt v" />
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
     <keyboard-shortcut first-keystroke="shift ctrl period" />
