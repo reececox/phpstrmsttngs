@@ -26,6 +26,7 @@
       <mapping pattern="TEST10" type="PLAIN_TEXT" />
       <mapping ext="20171113" type="PLAIN_TEXT" />
       <mapping ext="20170829" type="PLAIN_TEXT" />
+      <mapping ext="20171208" type="PLAIN_TEXT" />
       <mapping ext="20171107" type="PLAIN_TEXT" />
       <mapping ext="20171012" type="PLAIN_TEXT" />
       <mapping ext="20171101" type="PLAIN_TEXT" />
