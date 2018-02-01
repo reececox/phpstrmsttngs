@@ -3,7 +3,7 @@
     <extensionMap>
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="Readme" type="PLAIN_TEXT" />
-      <mapping pattern="TEST5" type="PLAIN_TEXT" />
+      <mapping pattern="TEST6" type="PLAIN_TEXT" />
       <mapping pattern="attachments-README" type="PLAIN_TEXT" />
       <mapping pattern="FLAG_QUEUE_OFF" type="PLAIN_TEXT" />
       <mapping pattern="TEST9" type="PLAIN_TEXT" />
@@ -17,7 +17,7 @@
       <mapping pattern="TEST1" type="PLAIN_TEXT" />
       <mapping pattern="hi" type="PLAIN_TEXT" />
       <mapping pattern="-FLAG_QUEUE_RUNNING" type="PLAIN_TEXT" />
-      <mapping pattern="TEST6" type="PLAIN_TEXT" />
+      <mapping pattern="TEST5" type="PLAIN_TEXT" />
       <mapping pattern="-FLAG_QUEUE_OFF" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="TEST14" type="PLAIN_TEXT" />
@@ -36,13 +36,14 @@
       <mapping ext="20180124" type="PLAIN_TEXT" />
       <mapping ext="20171011" type="PLAIN_TEXT" />
       <mapping ext="20171121" type="PLAIN_TEXT" />
-      <mapping ext="20170831" type="PLAIN_TEXT" />
+      <mapping ext="20180201" type="PLAIN_TEXT" />
       <mapping ext="20170926" type="PLAIN_TEXT" />
+      <mapping ext="20170830" type="PLAIN_TEXT" />
       <mapping ext="20171205" type="PLAIN_TEXT" />
       <mapping ext="20171204" type="PLAIN_TEXT" />
       <mapping ext="20171030" type="PLAIN_TEXT" />
       <mapping ext="20180125" type="PLAIN_TEXT" />
-      <mapping ext="20170830" type="PLAIN_TEXT" />
+      <mapping ext="20170831" type="PLAIN_TEXT" />
       <mapping ext="20170920" type="PLAIN_TEXT" />
       <mapping ext="20171122" type="PLAIN_TEXT" />
     </extensionMap>
