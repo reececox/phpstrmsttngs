@@ -1,13 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern="MenuNoOptions" type="PLAIN_TEXT" />
-      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="attachments-README" type="PLAIN_TEXT" />
       <mapping pattern="TEST12" type="PLAIN_TEXT" />
       <mapping pattern="FLAG_QUEUE_OFF" type="PLAIN_TEXT" />
-      <mapping pattern="TEST11" type="PLAIN_TEXT" />
       <mapping pattern="TEST9" type="PLAIN_TEXT" />
       <mapping pattern="TEST8" type="PLAIN_TEXT" />
       <mapping pattern="TEST7" type="PLAIN_TEXT" />
@@ -24,33 +23,35 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="TEST14" type="PLAIN_TEXT" />
       <mapping pattern="TEST13" type="PLAIN_TEXT" />
+      <mapping pattern="TEST11" type="PLAIN_TEXT" />
       <mapping pattern="TEST10" type="PLAIN_TEXT" />
-      <mapping ext="20180124" type="PLAIN_TEXT" />
-      <mapping ext="20170920" type="PLAIN_TEXT" />
-      <mapping ext="20170926" type="PLAIN_TEXT" />
-      <mapping ext="20171208" type="PLAIN_TEXT" />
-      <mapping ext="20171205" type="PLAIN_TEXT" />
-      <mapping ext="20171204" type="PLAIN_TEXT" />
-      <mapping ext="20170831" type="PLAIN_TEXT" />
+      <mapping ext="20171113" type="PLAIN_TEXT" />
       <mapping ext="20170829" type="PLAIN_TEXT" />
-      <mapping ext="20171122" type="PLAIN_TEXT" />
-      <mapping ext="20171121" type="PLAIN_TEXT" />
-      <mapping ext="20180427" type="PLAIN_TEXT" />
+      <mapping ext="20171107" type="PLAIN_TEXT" />
+      <mapping ext="20171012" type="PLAIN_TEXT" />
+      <mapping ext="20171101" type="PLAIN_TEXT" />
+      <mapping ext="20171208" type="PLAIN_TEXT" />
       <mapping ext="20170807" type="PLAIN_TEXT" />
       <mapping ext="20170803" type="PLAIN_TEXT" />
-      <mapping ext="20171113" type="PLAIN_TEXT" />
-      <mapping ext="20171107" type="PLAIN_TEXT" />
+      <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="20171106" type="PLAIN_TEXT" />
-      <mapping ext="20171101" type="PLAIN_TEXT" />
-      <mapping ext="20171030" type="PLAIN_TEXT" />
-      <mapping ext="20171012" type="PLAIN_TEXT" />
-      <mapping ext="20171011" type="PLAIN_TEXT" />
       <mapping ext="20180226" type="PLAIN_TEXT" />
-      <mapping ext="20170830" type="PLAIN_TEXT" />
-      <mapping ext="20180208" type="PLAIN_TEXT" />
+      <mapping ext="20180124" type="PLAIN_TEXT" />
+      <mapping ext="20171011" type="PLAIN_TEXT" />
+      <mapping ext="20171121" type="PLAIN_TEXT" />
       <mapping ext="20180201" type="PLAIN_TEXT" />
-      <mapping ext="20180125" type="PLAIN_TEXT" />
+      <mapping ext="20180208" type="PLAIN_TEXT" />
+      <mapping ext="20180314" type="PLAIN_TEXT" />
       <mapping ext="20180426" type="PLAIN_TEXT" />
+      <mapping ext="20170926" type="PLAIN_TEXT" />
+      <mapping ext="20170830" type="PLAIN_TEXT" />
+      <mapping ext="20171205" type="PLAIN_TEXT" />
+      <mapping ext="20171204" type="PLAIN_TEXT" />
+      <mapping ext="20171030" type="PLAIN_TEXT" />
+      <mapping ext="20180125" type="PLAIN_TEXT" />
+      <mapping ext="20170831" type="PLAIN_TEXT" />
+      <mapping ext="20170920" type="PLAIN_TEXT" />
+      <mapping ext="20171122" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
