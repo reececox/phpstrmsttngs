@@ -8,6 +8,7 @@
       <mapping pattern="TEST5" type="PLAIN_TEXT" />
       <mapping pattern="attachments-README" type="PLAIN_TEXT" />
       <mapping pattern="FLAG_QUEUE_OFF" type="PLAIN_TEXT" />
+      <mapping pattern="redirect" type="PLAIN_TEXT" />
       <mapping pattern="TEST9" type="PLAIN_TEXT" />
       <mapping pattern="TEST8" type="PLAIN_TEXT" />
       <mapping pattern="TEST7" type="PLAIN_TEXT" />
