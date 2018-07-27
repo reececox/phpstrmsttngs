@@ -5,17 +5,17 @@
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="Readme" type="PLAIN_TEXT" />
       <mapping pattern="MenuNoOptions" type="PLAIN_TEXT" />
-      <mapping pattern="TEST5" type="PLAIN_TEXT" />
+      <mapping pattern="MetropolitanAccountsImport" type="PLAIN_TEXT" />
       <mapping pattern="attachments-README" type="PLAIN_TEXT" />
+      <mapping pattern="TEST12" type="PLAIN_TEXT" />
       <mapping pattern="FLAG_QUEUE_OFF" type="PLAIN_TEXT" />
       <mapping pattern="redirect" type="PLAIN_TEXT" />
       <mapping pattern="name" type="PLAIN_TEXT" />
-      <mapping pattern="post-receive" type="PLAIN_TEXT" />
       <mapping pattern="TEST9" type="PLAIN_TEXT" />
       <mapping pattern="TEST8" type="PLAIN_TEXT" />
       <mapping pattern="TEST7" type="PLAIN_TEXT" />
-      <mapping pattern="MetropolitanAccountsImport" type="PLAIN_TEXT" />
-      <mapping pattern="TEST12" type="PLAIN_TEXT" />
+      <mapping pattern="post-receive" type="PLAIN_TEXT" />
+      <mapping pattern="TEST5" type="PLAIN_TEXT" />
       <mapping pattern="TEST4" type="PLAIN_TEXT" />
       <mapping pattern="TEST3" type="PLAIN_TEXT" />
       <mapping pattern="TEST2" type="PLAIN_TEXT" />
@@ -59,6 +59,7 @@
       <mapping ext="20171012" type="PLAIN_TEXT" />
       <mapping ext="20171011" type="PLAIN_TEXT" />
       <mapping ext="20180314" type="PLAIN_TEXT" />
+      <mapping ext="20180727" type="PLAIN_TEXT" />
       <mapping ext="20180226" type="PLAIN_TEXT" />
       <mapping ext="20170830" type="PLAIN_TEXT" />
       <mapping ext="20180208" type="PLAIN_TEXT" />
