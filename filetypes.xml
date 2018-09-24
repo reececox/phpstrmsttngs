@@ -22,6 +22,7 @@
       <mapping pattern="TEST1" type="PLAIN_TEXT" />
       <mapping pattern="hi" type="PLAIN_TEXT" />
       <mapping pattern="-FLAG_QUEUE_RUNNING" type="PLAIN_TEXT" />
+      <mapping pattern="RB_RBBasic" type="PLAIN_TEXT" />
       <mapping pattern="TEST6" type="PLAIN_TEXT" />
       <mapping pattern="-FLAG_QUEUE_OFF" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
