@@ -29,6 +29,7 @@
       <mapping pattern="MetropolitanAccountsImport" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="redirect" type="PLAIN_TEXT" />
+      <mapping pattern="FOOWCkSl0" type="PLAIN_TEXT" />
       <mapping pattern="MenuNoOptions" type="PLAIN_TEXT" />
       <mapping pattern="TEST13" type="PLAIN_TEXT" />
       <mapping pattern="disablesubdomain" type="PLAIN_TEXT" />
