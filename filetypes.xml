@@ -80,6 +80,7 @@
       <mapping ext="20171011" type="PLAIN_TEXT" />
       <mapping ext="20181123" type="PLAIN_TEXT" />
       <mapping ext="20180314" type="PLAIN_TEXT" />
+      <mapping ext="20191219" type="PLAIN_TEXT" />
       <mapping ext="20180727" type="PLAIN_TEXT" />
       <mapping ext="20180226" type="PLAIN_TEXT" />
       <mapping ext="20181030" type="PLAIN_TEXT" />
@@ -89,7 +90,6 @@
       <mapping ext="20180125" type="PLAIN_TEXT" />
       <mapping ext="20191105" type="PLAIN_TEXT" />
       <mapping ext="20180430" type="PLAIN_TEXT" />
-      <mapping ext="20191219" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
