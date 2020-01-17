@@ -32,6 +32,7 @@
       <mapping pattern="TEST13" type="PLAIN_TEXT" />
       <mapping pattern="disablesubdomain" type="PLAIN_TEXT" />
       <mapping pattern="attachments-README" type="PLAIN_TEXT" />
+      <mapping ext="20180920" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="20180124" type="PLAIN_TEXT" />
       <mapping ext="20180611" type="PLAIN_TEXT" />
@@ -45,7 +46,6 @@
       <mapping ext="script" type="PLAIN_TEXT" />
       <mapping ext="20170926" type="PLAIN_TEXT" />
       <mapping ext="20191015" type="PLAIN_TEXT" />
-      <mapping ext="20200116" type="PLAIN_TEXT" />
       <mapping ext="20171208" type="PLAIN_TEXT" />
       <mapping ext="20180531" type="PLAIN_TEXT" />
       <mapping ext="20180530" type="PLAIN_TEXT" />
@@ -61,7 +61,6 @@
       <mapping ext="20170829" type="PLAIN_TEXT" />
       <mapping ext="20180928" type="PLAIN_TEXT" />
       <mapping ext="20180927" type="PLAIN_TEXT" />
-      <mapping ext="20180920" type="PLAIN_TEXT" />
       <mapping ext="20171122" type="PLAIN_TEXT" />
       <mapping ext="20171121" type="PLAIN_TEXT" />
       <mapping ext="20180427" type="PLAIN_TEXT" />
@@ -86,6 +85,7 @@
       <mapping ext="20180226" type="PLAIN_TEXT" />
       <mapping ext="20181030" type="PLAIN_TEXT" />
       <mapping ext="20181025" type="PLAIN_TEXT" />
+      <mapping ext="20200116" type="PLAIN_TEXT" />
       <mapping ext="20180208" type="PLAIN_TEXT" />
       <mapping ext="20200110" type="PLAIN_TEXT" />
       <mapping ext="20180201" type="PLAIN_TEXT" />
